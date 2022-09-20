@@ -14,7 +14,6 @@ EXTERNAL / YOU NEED YOUR OWN DRIVER FOR IT TO WORK. IF YOU DON'T WANT TO CREATE 
         <img title="Noname Discord" alt="Noname's Discord" src="https://discord.c99.nl/widget/theme-2/523847478831874091.png"/>
     </a>
 </p> 
-***
 
 ***
 ### 💬 DISCORD ・ [Big Belly Solution](https://discord.gg/YpWp5hN6K5) 
