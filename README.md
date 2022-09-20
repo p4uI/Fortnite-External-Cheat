@@ -8,5 +8,6 @@ EXTERNAL / YOU NEED YOUR OWN DRIVER FOR IT TO WORK. IF YOU DON'T WANT TO CREATE 
 
 - There will be constant updates about Offset. You can see the updates in the file. 
 
-![aimbs](https://user-images.githubusercontent.com/94861415/179345852-da4dc24d-d856-45a1-b8b2-2063656cc5ff.png)
+![frtn](https://user-images.githubusercontent.com/86538817/191363676-32b75f56-a93a-4471-b1df-11539348b443.png)
+
 
