@@ -155,7 +155,7 @@ void DrawCircle(int X, int Y, int W, int H, const ImU32& color, int thickness) {
 
 template <typename type>
 type rpm(uint64_t src, uint64_t size = sizeof(type)) {
-	type ret; //P2C SRC MADE BY PASTEPOLICE
+	type ret; 
 	proc->read_memory(src, (uintptr_t)&ret, size);
 	return ret;
 }
@@ -1772,7 +1772,7 @@ void main() {
 
 
 
-	proc = std::make_unique<kernelmode_proc_handler>(); //P2C SRC MADE BY PASTEPOLICE
+	proc = std::make_unique<kernelmode_proc_handler>(); 
 
 	proc->attach(XorStr("FortniteClient-Win64-Shipping.exe").c_str());
 
