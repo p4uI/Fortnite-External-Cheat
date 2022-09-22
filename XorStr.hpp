@@ -93,6 +93,7 @@ using XorStrA = _Basic_XorStr<std::string, _length>;
 template<size_t _length>
 using XorStrW = _Basic_XorStr<std::wstring, _length>;
 template<size_t _length>
+template<size_t _length>
 using XorStrU16 = _Basic_XorStr<std::u16string, _length>;
 template<size_t _length>
 using XorStrU32 = _Basic_XorStr<std::u32string, _length>;
