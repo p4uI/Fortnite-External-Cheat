@@ -1,10 +1,3 @@
-
-<!--Start rollercoin.com code-->
-<a href="https://rollercoin.com/?r=l2xx47g5">
-   <img src="//rollercoin.com/static/img/public_img/gen2/w970h250.gif"/> 
- </a> 
-<!--End rollercoin.com code-->
-
 ```sh-session
 EXTERNAL / YOU NEED YOUR OWN DRIVER FOR IT TO WORK. IF YOU DON'T WANT TO CREATE THE DRIVER YOUSELF, YOU CAN ORDER IT FROM ME
 ```
@@ -21,6 +14,14 @@ EXTERNAL / YOU NEED YOUR OWN DRIVER FOR IT TO WORK. IF YOU DON'T WANT TO CREATE 
         <img title="Noname Discord" alt="Noname's Discord" src="https://discord.c99.nl/widget/theme-2/523847478831874091.png"/>
     </a>
 </p> 
+
+***
+
+<!--Start rollercoin.com code-->
+<a href="https://rollercoin.com/?r=l2xx47g5">
+   <img src="//rollercoin.com/static/img/public_img/gen2/w970h250.gif"/> 
+ </a> 
+ <!--End rollercoin.com code-->
 
 ***
 ### 💬 DISCORD ・ [Big Belly Solution](https://discord.gg/YpWp5hN6K5) 
