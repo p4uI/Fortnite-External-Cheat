@@ -17,6 +17,8 @@ namespace
 #define ALWAYS_INLINE __attribute__((always_inline))
 #endif
 
+// nigger
+
 template<typename _string_type, size_t _length>
 class _Basic_XorStr
 {
