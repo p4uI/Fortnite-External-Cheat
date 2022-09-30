@@ -1,10 +1,10 @@
 
 
-						<!--Start rollercoin.com code-->
-						<a href="https://rollercoin.com/?r=l2xx47g5">
-							<img src="//rollercoin.com/static/img/public_img/gen2/w300h250.gif" alt="300h250"/>
-						</a>
-						<!--End rollercoin.com code-->
+<!--Start rollercoin.com code-->
+<a href="https://rollercoin.com/?r=l2xx47g5">
+<img src="//rollercoin.com/static/img/public_img/gen2/w300h250.gif" alt="300h250"/>
+</a>
+<!--End rollercoin.com code-->
 					
 
 ```sh-session
