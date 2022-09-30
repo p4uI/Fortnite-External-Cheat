@@ -1,9 +1,9 @@
 
-<p align="center">
-  <a href="https://rollercoin.com/?r=l2xx47g5">
-      <img src="//rollercoin.com/static/img/public_img/gen2/w300h250.gif" alt="300h250"/>
-  </a>
-</p>
+<!--Start rollercoin.com code-->
+<a href="https://rollercoin.com/?r=l2xx47g5">
+   <img src="//rollercoin.com/static/img/public_img/gen2/w970h250.gif"/> 
+ </a> 
+<!--End rollercoin.com code-->
 
 ```sh-session
 EXTERNAL / YOU NEED YOUR OWN DRIVER FOR IT TO WORK. IF YOU DON'T WANT TO CREATE THE DRIVER YOUSELF, YOU CAN ORDER IT FROM ME
