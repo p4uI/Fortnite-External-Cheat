@@ -18,9 +18,11 @@ EXTERNAL / YOU NEED YOUR OWN DRIVER FOR IT TO WORK. IF YOU DON'T WANT TO CREATE 
 ***
 
 <!--Start rollercoin.com code-->
+<p align="center">
 <a href="https://rollercoin.com/?r=l2xx47g5">
    <img src="rollercoin.com/static/img/public_img/gen2/w300h250.png"/> 
  </a> 
+ </p>
  <!--End rollercoin.com code-->
 
 ***
