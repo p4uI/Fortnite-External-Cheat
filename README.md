@@ -8,6 +8,8 @@ EXTERNAL / YOU NEED YOUR OWN DRIVER FOR IT TO WORK. IF YOU DON'T WANT TO CREATE 
 
 - There will be constant updates about Offset. You can see the updates in the file. 
 
+- DM ME for drivers.
+
 *** 
   <p align="center">
     <a href="https://discord.com/users/523847478831874091">
