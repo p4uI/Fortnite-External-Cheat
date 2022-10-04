@@ -254,7 +254,7 @@ namespace li {
                     static_cast<unsigned long long>(prime));
             }
         };
-
+//niggers on top
         template<class CharT = char>
         LAZY_IMPORTER_FORCEINLINE constexpr hash_t::value_type
             khash(const CharT* str, hash_t::value_type value = hash_t::offset) noexcept
